@@ -1,7 +1,7 @@
 {
-	"name": "Beauty Force",
+	"name": "beautyforce",
 	"version": "1.0.0",
-	"description": "Beauty Force corporate website",
+	"description": "beautyforce",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
