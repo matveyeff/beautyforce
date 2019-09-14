@@ -1,1 +1,1 @@
-<h1>BEAUTY FORCE</h1>
+# Beauty Force
